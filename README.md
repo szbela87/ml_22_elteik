@@ -1,2 +1,2 @@
-# ml_22_elteik
- Machine Learning course materials
+# Machine Learning course materials, ELTE IK 2021/22 spring semester
+ 
