@@ -1,8 +1,10 @@
 Competition rules
 
 Objective: predict the CARAVAN column of the evaluation data
-The description of the dataset and the task can be found in description_task.txt
+The description of the dataset and the task can be found in https://github.com/szbela87/ml_22_elteik/blob/main/mp2/description_task.txt
+These rules are available at https://github.com/szbela87/ml_22_elteik/blob/main/mp2/rules.txt
 
+The dataset is available at https://github.com/szbela87/ml_22_elteik/tree/main/mp2
 Training set: ticdata2000.txt
 Testing set: ticeval2000.txt
 
@@ -18,7 +20,7 @@ Metric: balanced accuracy
 
 Submission format: .txt file, the nth row should be your prediction for the nth element of the test set; 
 filename should be mldl_competition2_[your_name]_submission[submission_number].txt. 
-[submission_number] is 1 or 2 depending on the competition.
+[submission_number] is 1 or 2 depending on the competition id.
 Pay attention to submit your predictions in the same order as they are in the test set. (ticeval2000.txt)
 You can submit one file for each competition.
 Also submit your notebooks, e.g., you can share with me all your work in a Google Drive directory.
