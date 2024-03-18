@@ -33,3 +33,10 @@ The next weeks after the assignment is given out, during the practice part of th
 For that, you have to submit a work in progress notebook by the Friday after the assignemnt is given out. 
 At the end of the three weeks, during the practice, the winners will be announced, and some people will be asked to present their solution.
 
+The points recieved of your work does not depend on the result in the competitions. 
+To achieve the maximum score for a mini-project, the following must be done:
+
+1. participate in at least one competition,
+2. fine-tune the hyperparameters,
+3. the solution must be well-commented, and the code should be clean,
+4. the submitted work must be complete, meaning not a single file required for submission is missing.
