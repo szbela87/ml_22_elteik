@@ -24,13 +24,14 @@ filename should be mldl_competition2_[your_name]_submission[competition_id].txt.
 Pay attention to submit your predictions in the same order as they are in the test set. (ticeval2000.txt)
 You can submit one file for each competition.
 Also submit your notebooks, e.g., you can share with me all your work in a Google Drive directory.
-
+Also export your notebook to html or pdf format.
 The Google Collaboratory notebook should be able to reproduce the HTML/PDF file if I restart the kernel and run all cells.
+The notebooks should be named as the prediction submissions: mldl_competition2_[your_name]_submission[competition_id].html or pdf and ipynb.
 Your code should be clear and commented.
 
 The deadline is April 5, 23:59.
 The next weeks after the assignment is given out, during the practice part of the course, you will have a chance to consult with me and ask for help if you have a problem.
-For that, you have to submit a work in progress notebook by the Friday after the assignemnt is given out. 
+For that, you have to submit a work in progress notebook by the next Friday after the assignemnt is given out. 
 At the end of the three weeks, during the practice, the winners will be announced, and some people will be asked to present their solution.
 
 The points recieved of your work does not depend on the result in the competitions. 
