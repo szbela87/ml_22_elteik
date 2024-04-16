@@ -1,0 +1,39 @@
++----------------------------------------------------------------------+
+|                         3rd Mini-project                             |
++----------------------------------------------------------------------+
+
+https://www.kaggle.com/c/Kannada-MNIST
+Rules: NO PREPROCESSING, ONLY MODEL TUNING. 
+In this competition you can not modify the data 
+(only division by 255 is allowed, PCA is not allowed either). 
+You have to focus on model choice and hiperparameter optimization.
+
+Categories: 
+1. Boosting models
+2. Freestyle
+
+Submission: You have to submit your Kaggle score, your  (screenshots) 
+and your notebooks (like in the first competition). You will be ranked 
+based on your evaluation score on Kaggle. In this competition you have 
+to submit through a Kernel on Kaggle. 
+
+Submission format: the filenames should be 
+mldl_competition3_[your_name]_submission[category_id].* 
+Here, [category_id] is 1 or 2. 
+You can submit one file for each competition.
+
+Recommendations:
+Also submit your notebooks, e.g., you can share with me all your work in
+a Google Drive directory. Also export your notebooks to html or pdf 
+format. The Google Colaboratory notebooks should be able to reproduce 
+the HTML/PDF file if I restart the kernel and run all cells.
+The notebooks should be named as the prediction submissions: 
+mldl_competition3_[your_name]_submission[category_id].html or pdf and ipynb.
+Your code should be clear and commented. 
+
+Hints:
+https://arxiv.org/abs/1812.01187
+
+Deadlines:
+Work in progress:  April 19th, 11:59 pm
+Final: April 26th, 11:59 pm
