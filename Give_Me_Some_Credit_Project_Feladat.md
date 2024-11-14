@@ -45,4 +45,5 @@ Az értékelés során figyelembe vett szempontok:
 - **Stacking modell megvalósítása és teljesítménye**
 - **Eredmények vizualizációja és a teljesítménymutatók elemzése**
 - **Dokumentáció és a bemutató minősége**
+- **Bónusz: Kaggle - Late submission**
 
