@@ -42,7 +42,7 @@ egyes hitelfelvevők demográfiai és pénzügyi adatait.
 Az értékelés során figyelembe vett szempontok:
 - **Adatfeldolgozás és előkészítés minősége**
 - **Modellek fejlesztése és optimalizálása**
-- **Ensemble modell megvalósítása és teljesítménye**
+- **Stacking modell megvalósítása és teljesítménye**
 - **Eredmények vizualizációja és a teljesítménymutatók elemzése**
 - **Dokumentáció és a bemutató minősége**
 
