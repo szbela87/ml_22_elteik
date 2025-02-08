@@ -1,6 +1,6 @@
 # Introduction to Machine Learning and Deep Learning
 
-Additional Machine Learning course materials, ELTE Faculty of Informatics - 2024/25 spring semester
+Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semester
 
 ## Course Structure and Grading
 
@@ -85,7 +85,7 @@ Additional Machine Learning course materials, ELTE Faculty of Informatics - 2024
 | Week  | Topics & Activities | Links |
 |-------|---------------------|-------|
 | **1** | Introduction to ML, Types of ML, NumPy, Pandas, Matplotlib | [Practice Notebooks](https://drive.google.com/drive/folders/1nGrjHiYWcQ-JkfTcMCgcysPgogIIxF7c?usp=drive_link), [Homework](https://drive.google.com/drive/folders/1bE7fgjayMBCBk0EmSenng5iwegO4jkFL?usp=sharing) |
-| **2** | Linear Regression, Logistic Regression, Naïve Bayes, Decision Trees, Overfitting vs. Underfitting | **Practice: Scikit-learn I** |
+| **2** | Linear Regression, Logistic Regression, Naive Bayes, Decision Trees, Overfitting vs. Underfitting | **Practice: Scikit-learn I** |
 | **3** | End-to-End ML Workflow, Scikit-learn II, First Mini-Project Assignment |  |
 | **4** | KNN, DBSCAN, K-Means, PCA, SVMs | **Practice: Scikit-learn** |
 | **5** | XGBoost, GridSearchCV, Optuna/Hyperopt | **Practice: Notebooks** |
