@@ -106,5 +106,4 @@ Additional Machine Learning course materials, ELTE Faculty of Informatics - 2024
 | 6    | Mini-Project 2 | Week 9 |
 | 9    | Mini-Project 3 | Week 12 |
 | 12   | Mini-Project 4 | Week 15 |
-|------|-----------|----------|
 | 15?   | Mini-Project +1 | Week ? |
