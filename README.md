@@ -82,7 +82,9 @@ Additional Machine Learning course materials, ELTE Faculty of Informatics - 2024
 ### Week 1: Introduction
 - Overview of machine learning.
 - Types of ML: Supervised, Unsupervised, Reinforcement Learning.
-- Introduction to **NumPy, Pandas, Matplotlib**.
+- Introduction to **NumPy, Pandas, Matplotlib**. 
+- [Practice Notebooks](https://drive.google.com/drive/folders/1nGrjHiYWcQ-JkfTcMCgcysPgogIIxF7c?usp=drive_link) 
+- [Homework](https://drive.google.com/drive/folders/1bE7fgjayMBCBk0EmSenng5iwegO4jkFL?usp=sharing) 
 
 ### Week 2: Regression & Decision Trees
 - **Linear Regression, Logistic Regression, Naïve Bayes**.
