@@ -25,10 +25,6 @@ Additional Machine Learning course materials, ELTE Faculty of Informatics - 2024
 - **80%** → Good (4)
 - **90%** → Excellent (5)
 
-## Course GitHub Repository
-
-[Course GitHub Page](https://github.com/szbela87/ml_22_elteik) - Contains data files and other materials.
-
 ## Homework and Practice Work Instructions
 
 - Submit a **shared link** to a Google Colab notebook.
@@ -86,59 +82,21 @@ Additional Machine Learning course materials, ELTE Faculty of Informatics - 2024
 - [Practice Notebooks](https://drive.google.com/drive/folders/1nGrjHiYWcQ-JkfTcMCgcysPgogIIxF7c?usp=drive_link) 
 - [Homework](https://drive.google.com/drive/folders/1bE7fgjayMBCBk0EmSenng5iwegO4jkFL?usp=sharing) 
 
-### Week 2: Regression & Decision Trees
-- **Linear Regression, Logistic Regression, Naïve Bayes**.
-- **Overfitting vs. Underfitting**, **Confusion Matrix**.
-- **Decision Trees, Random Forests, Boosting, Bagging**.
-- **Practice: Scikit-learn I**.
-
-### Week 3: ML Workflow & First Mini-Project
-- **Case study: End-to-End ML Workflow**.
-- **Practice: Scikit-learn II**.
-- **Assignment of the first mini-project**.
-
-### Week 4: Clustering & SVMs
-- **KNN, DBSCAN, K-Means, PCA**.
-- **Support Vector Machines (SVMs)**.
-- **Practice: Scikit-learn**.
-
-### Week 5: Boosting & Hyperparameter Tuning
-- **XGBoost, GridSearchCV, Optuna/Hyperopt**.
-- **Practice: Notebooks**.
-
-### Week 6: Neural Networks & First Mini-Project Presentations
-- **Perceptron, Adaline, Backpropagation Algorithm**.
-- **Assignment of the second mini-project**.
-- **First mini-project presentations**.
-
-### Week 7: PyTorch Introduction
-- **Neural Networks in PyTorch**.
-- **Practice: Notebooks**.
-
-### Week 8: Holiday 🎉
-
-### Week 9: CNNs & Second Mini-Project Presentations
-- **Convolutional Neural Networks (CNNs)**.
-- **Application: MNIST, CIFAR10, Fashion MNIST**.
-- **Assignment of the third mini-project**.
-
-### Week 10: Advanced Neural Networks
-- **Optimization, Transfer Learning, Overfitting Handling**.
-- **Batch Normalization, Dropout, ResNet, DenseNet, Inception**.
-- **Practice: Notebooks**.
-
-### Week 11: Object Detection & Segmentation
-- **Unet for Medical Image Segmentation**.
-- **YOLO Algorithm for Object Detection**.
-- **Practice: Notebooks**.
-
-### Week 12: Autoencoders & Third Mini-Project Presentations
-- **Case Study: Autoencoders**.
-- **Scientific Paper Reproduction**.
-- **Assignment of the fourth mini-project**.
-
-### Week 13: Time Series Forecasting
-- **Lecture & Practice: Notebooks**.
+| Week  | Topics & Activities | Links |
+|-------|---------------------|-------|
+| **1** | Introduction to ML, Types of ML, NumPy, Pandas, Matplotlib | [Practice Notebooks](https://drive.google.com/drive/folders/1nGrjHiYWcQ-JkfTcMCgcysPgogIIxF7c?usp=drive_link), [Homework](https://drive.google.com/drive/folders/1bE7fgjayMBCBk0EmSenng5iwegO4jkFL?usp=sharing) |
+| **2** | Linear Regression, Logistic Regression, Naïve Bayes, Decision Trees, Overfitting vs. Underfitting | **Practice: Scikit-learn I** |
+| **3** | End-to-End ML Workflow, Scikit-learn II, First Mini-Project Assignment |  |
+| **4** | KNN, DBSCAN, K-Means, PCA, SVMs | **Practice: Scikit-learn** |
+| **5** | XGBoost, GridSearchCV, Optuna/Hyperopt | **Practice: Notebooks** |
+| **6** | Perceptron, Adaline, Backpropagation, First Mini-Project Presentations, Second Mini-Project Assignment |  |
+| **7** | Introduction to PyTorch, Neural Networks | **Practice: Notebooks** |
+| **8** | Holiday 🎉 |  |
+| **9** | CNNs, MNIST, CIFAR10, Fashion MNIST, Second Mini-Project Presentations, Third Mini-Project Assignment |  |
+| **10** | Advanced NN Architectures: ResNet, DenseNet, Inception, Transfer Learning | **Practice: Notebooks** |
+| **11** | Unet for Segmentation, YOLO for Object Detection | **Practice: Notebooks** |
+| **12** | Autoencoders, Scientific Paper Reproduction, Third Mini-Project Presentations, Fourth Mini-Project Assignment |  |
+| **13** | Time Series Forecasting | **Lecture & Practice: Notebooks** |
 
 ## Mini-Project Schedule
 
