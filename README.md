@@ -42,7 +42,7 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
     1. Best performance using a specific method.
     2. Best performance using **any** technique.
 - Achieving high scores is **not mandatory**, but:
-  - Placing in the **top 3 at least 3 times** guarantees a **grade of 5** (if all 3 projects are submitted).
+  - Placing in the **top 3 at least 3 times** guarantees a **grade of 5** (if at least 3 projects are submitted).
 - You must submit a **work-in-progress notebook** by the following **Friday**.
 - The final deadline is **three weeks** after assignment, on **Fridays at 23:59:59 PM**.
 - Winners are announced and some students will present their solutions.
