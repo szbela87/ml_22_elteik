@@ -31,7 +31,7 @@ $$
 $$
 
 Where:  
-- **TPR (True Positive Rate):** $ \frac{TP}{TP + FN} $
+- **TPR (True Positive Rate):** $$ \frac{TP}{TP + FN} $$
 - **TNR (True Negative Rate):** $ \frac{TN}{TN + FP} $
 
 (Where TP, FP, TN, and FN are the counts of true positives, false positives, true negatives, and false negatives, respectively).
@@ -84,3 +84,4 @@ The mini-project grading **does not** depend on competition rankings but on meet
 3. **Well-commented and clean code**  
 4. **Complete submission** (all required files included, including `submission_census_income_[your_name]_[competition_id].csv`)  
 5. **Ensuring reproducibility** (fixed random seeds)  
+6. **Anything can be used, with proper citations**
