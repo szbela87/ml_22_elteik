@@ -31,8 +31,8 @@ $$
 $$
 
 Where:  
-- **TPR (True Positive Rate):** $\frac{TP}{TP + FN}$
-- **TNR (True Negative Rate):** $ \frac{TN}{TN + FP} $
+- **TPR (True Positive Rate):** $TPR=\frac{TP}{TP + FN}$
+- **TNR (True Negative Rate):** $TNR=\frac{TN}{TN + FP}$
 
 (Where TP, FP, TN, and FN are the counts of true positives, false positives, true negatives, and false negatives, respectively).
 
