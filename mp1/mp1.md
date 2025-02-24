@@ -26,13 +26,13 @@ The input data consists of various demographic and employment-related features.
 ## **Evaluation Metric**  
 Performance is measured using **balanced accuracy**:
 
-\[
+$$
 \text{Balanced Accuracy} = \frac{TPR + TNR}{2}
-\]
+$$
 
 Where:  
-- **TPR (True Positive Rate):** \( \frac{TP}{TP + FN} \)  
-- **TNR (True Negative Rate):** \( \frac{TN}{TN + FP} \)  
+- **TPR (True Positive Rate):** $ \frac{TP}{TP + FN} $
+- **TNR (True Negative Rate):** $ \frac{TN}{TN + FP} $
 
 (Where TP, FP, TN, and FN are the counts of true positives, false positives, true negatives, and false negatives, respectively).
 
@@ -44,7 +44,7 @@ Where:
 **A Google Drive folder link must be submitted on the course’s Canvas page under the assignment.**  
 This folder must contain the following files:
 
-1. **Prediction File (`submission_census_income_[your_name]_[competition_id].csv`)**  
+1. **Prediction Files (`submission_census_income_[your_name]_[competition_id].csv`)**  
    - Contains predictions for the **test.csv** dataset.  
    - **Format:** One label per line (0 or 1).  
    - **Important:** The predictions must be in the same order as in `test.csv`.  
@@ -63,7 +63,7 @@ This folder must contain the following files:
 **File Naming Format:**  
 - `census_income_[your_name]_[competition_id].ipynb`  
 - `census_income_[your_name]_[competition_id].html` or `.pdf`  
-- **Prediction File:** `submission.csv`  
+- **Prediction Files:** `submission_census_income_[your_name]_[competition_id].csv`  
 
 ---
 
