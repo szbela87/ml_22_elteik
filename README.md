@@ -80,7 +80,7 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 | **1** | Introduction to ML, Types of ML, NumPy, Pandas, Matplotlib | [Practice Notebooks](https://drive.google.com/drive/folders/1nGrjHiYWcQ-JkfTcMCgcysPgogIIxF7c?usp=drive_link), [Homework](https://drive.google.com/drive/folders/1bE7fgjayMBCBk0EmSenng5iwegO4jkFL?usp=sharing) |
 | **2** | Linear Regression, Logistic Regression, Naive Bayes, Decision Trees, Overfitting vs. Underfitting | [Slides](https://drive.google.com/drive/folders/13fjIQ4We5F7USMLcZ023tZxlQlMhEe9B?usp=sharing) |
 | **3** | Scikit-learn, First Mini-Project Assignment | [Practice Notebooks](https://drive.google.com/drive/folders/1KD1AB8gjM5fV2QoSZgUWTVs0QrXi62Mq?usp=sharing) |
-| **4** | ? KNN, DBSCAN, K-Means, PCA, SVMs | **Practice: Scikit-learn** |
+| **4** | A Case study, Clustering: KNN, DBSCAN, K-Means, PCA, SVMs | [Practice Notebooks](https://drive.google.com/drive/folders/132VUZJVbCmu3SJUOa5ymO-UX6vPgsFw9?usp=sharing) |
 | **5** | ? XGBoost, GridSearchCV, Optuna/Hyperopt | **Practice: Notebooks** |
 | **6** | ? Perceptron, Adaline, Backpropagation, First Mini-Project Presentations, Second Mini-Project Assignment |  |
 | **7** | ? Introduction to PyTorch, Neural Networks | **Practice: Notebooks** |
