@@ -86,10 +86,8 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 | **7-8** | Neural Networks in Pytorch. Motivation and structure of convolutional neural networks, basic building blocks: pooling, upsampling, convolutions. Simple application examples: classification - MNIST, CIFAR10, Fashion MNIST datasets. | [Practice Notebooks](https://drive.google.com/file/d/1LqYByhsIEa-f0Q4EFXOuZF-_p-VUkWZf/view?usp=sharing) |
 | **8-9** | Main issues of the constructions of networks. Optimization procedures. Transfer learning, feature extraction. Overfitting, underfitting again. Batch normalization, dropout, early stopping. Transpose convolution. Special architectures: ResNet, DenseNet, Inception.  | [Practice Notebooks](https://drive.google.com/file/d/1YeF9LqEOgfuDEaW_OmGpUmekmWTc9gcb/view?usp=sharing) |
 | **10** |  Holiday 🎉 |  |
-| **9** | ? |  |
-| **10** | ?  | **Practice: Notebooks** |
 | **11** | ? | **Practice: Notebooks** |
-| **12** | ? |  |
+| **12** | ? | **Practice: Notebooks** |
 | **13** | ?  | **Lecture & Practice: Notebooks** |
 
 ## Mini-Project Schedule
