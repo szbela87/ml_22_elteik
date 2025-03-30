@@ -81,15 +81,16 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 | **2** | Linear Regression, Logistic Regression, Naive Bayes, Decision Trees, Overfitting vs. Underfitting | [Slides](https://drive.google.com/drive/folders/13fjIQ4We5F7USMLcZ023tZxlQlMhEe9B?usp=sharing) |
 | **3** | Scikit-learn, First Mini-Project Assignment | [Practice Notebooks](https://drive.google.com/drive/folders/1KD1AB8gjM5fV2QoSZgUWTVs0QrXi62Mq?usp=sharing) |
 | **4** | A Case study, Clustering: KNN, DBSCAN, K-Means, PCA, SVMs | [Practice Notebooks](https://drive.google.com/drive/folders/132VUZJVbCmu3SJUOa5ymO-UX6vPgsFw9?usp=sharing) |
-| **5** | ? XGBoost, GridSearchCV, Optuna/Hyperopt | **Practice: Notebooks** |
-| **6** | ? Perceptron, Adaline, Backpropagation, First Mini-Project Presentations, Second Mini-Project Assignment |  |
-| **7** | ? Introduction to PyTorch, Neural Networks | **Practice: Notebooks** |
-| **8** | ? Holiday 🎉 |  |
-| **9** | ? CNNs, MNIST, CIFAR10, Fashion MNIST, Second Mini-Project Presentations, Third Mini-Project Assignment |  |
-| **10** | ? Advanced NN Architectures: ResNet, DenseNet, Inception, Transfer Learning | **Practice: Notebooks** |
-| **11** | ? Unet for Segmentation, YOLO for Object Detection | **Practice: Notebooks** |
-| **12** | ? Autoencoders, Scientific Paper Reproduction, Third Mini-Project Presentations, Fourth Mini-Project Assignment |  |
-| **13** | ? Time Series Forecasting | **Lecture & Practice: Notebooks** |
+| **5** | Boosting: XGBoost. Hyperparameter tuning with GridsearchCV Optuna/Hyperopt. | [Practice Notebooks](https://drive.google.com/drive/folders/14GKxKmjUZTwnOxwLqh66Sg4KveWsyRKq?usp=sharing) |
+| **6** | Neural networks: The structure, abilities and corresponding supervised teaching algorithms of the elementary neuron. Error correction procedures (gradient methods, random search procedures). Single and multilayer feedforward neural network, teaching feedforward networks: backpropagation algorithm. | [Practice Notebooks](https://drive.google.com/drive/folders/11DFwU2dkEE28JwrEythUR12yUErQpcSD?usp=sharing)  |
+| **7-8** | Neural Networks in Pytorch. Motivation and structure of convolutional neural networks, basic building blocks: pooling, upsampling, convolutions. Simple application examples: classification - MNIST, CIFAR10, Fashion MNIST datasets. | [Practice Notebooks](https://drive.google.com/file/d/1LqYByhsIEa-f0Q4EFXOuZF-_p-VUkWZf/view?usp=sharing) |
+| **8-9** | Main issues of the constructions of networks. Optimization procedures. Transfer learning, feature extraction. Overfitting, underfitting again. Batch normalization, dropout, early stopping. Transpose convolution. Special architectures: ResNet, DenseNet, Inception.  | [Practice Notebooks](https://drive.google.com/file/d/1YeF9LqEOgfuDEaW_OmGpUmekmWTc9gcb/view?usp=sharing) |
+| **10** |  Holiday 🎉 |  |
+| **9** | ? |  |
+| **10** | ?  | **Practice: Notebooks** |
+| **11** | ? | **Practice: Notebooks** |
+| **12** | ? |  |
+| **13** | ?  | **Lecture & Practice: Notebooks** |
 
 ## Mini-Project Schedule
 
