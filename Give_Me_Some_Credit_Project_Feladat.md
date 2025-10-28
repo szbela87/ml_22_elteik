@@ -45,7 +45,7 @@ hogy mely részhez használtál generatív modellt. Ez önbevallás alapon műk�
   - Precizitás (*precision*)  
   - F1-mutató  
   - AUC–ROC  
-- Végezd el a hibaanalízist: vizsgáld meg, mely ügyféltípusok esetén teljesítenek legrosszabbul a modellek, és milyen típusú esetekben hibáznak leginkább.
+- Végezd el a következő hibaanalízist: vizsgáld meg, mely ügyféltípusok esetén teljesítenek legrosszabbul a modellek, és milyen típusú esetekben hibáznak leginkább. Készíts rövid szöveges indoklást is.
 - Állíts fel egy sorrendet a fenti metrikák között aszerint, hogy a feladatnak szempontjából - véleményed szerint - mely metrika felel meg leginkább. Készíts rövid szöveges indoklást is.
 
 ### 5. **Dokumentáció és prezentáció**
