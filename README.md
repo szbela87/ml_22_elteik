@@ -4,8 +4,7 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 
 ## Course Structure and Grading
 
-- **20%** of the final grade comes from homework assignments.
-- **20%** comes from practical session performance.
+- **40%** of the final grade comes from homework assignments.
 - **60%** comes from three mini-projects (each has a two-week deadline, see schedule below).
 - **No final exam** for this course.
 
