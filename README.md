@@ -12,7 +12,7 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 ## About the Mini-Projects
 
 - There will be **3 mini-projects** throughout the semester.
-- You must complete all **3** mini-projects to receive a grade.
+- You must complete at least **2** mini-projects to receive a grade.
 - Solutions must be submitted via **Canvas** before the strict deadline.
 - Late submissions (up to 24 hours) will receive **half** the available points.
 - Plagiarism is strictly prohibited.
