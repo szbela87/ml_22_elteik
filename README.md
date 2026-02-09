@@ -6,13 +6,13 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 
 - **20%** of the final grade comes from homework assignments.
 - **20%** comes from practical session performance.
-- **60%** comes from four mini-projects (each has a two-week deadline, see schedule below).
+- **60%** comes from three mini-projects (each has a two-week deadline, see schedule below).
 - **No final exam** for this course.
 
 ## About the Mini-Projects
 
-- There will be **4+1 mini-projects** throughout the semester.
-- You must complete at least **3** mini-projects to receive a grade.
+- There will be **3 mini-projects** throughout the semester.
+- You must complete all **3** mini-projects to receive a grade.
 - Solutions must be submitted via **Canvas** before the strict deadline.
 - Late submissions (up to 24 hours) will receive **half** the available points.
 - Plagiarism is strictly prohibited.
@@ -38,11 +38,9 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 - Each mini-project includes:
   - A **dataset**.
   - A **task** (e.g., classification, clustering, etc.).
-  - Two **competitions**: 
-    1. Best performance using a specific method.
-    2. Best performance using **any** technique.
+  - A **competition**: best performance using any technique.
 - Achieving high scores is **not mandatory**, but:
-  - Placing in the **top 3 at least 3 times** guarantees a **grade of 5** (if at least 3 projects are submitted).
+  - Placing in the **top 3 at least 2 times** guarantees a **grade of 5**.
 - You must submit a **work-in-progress notebook** by the following **Friday**.
 - The final deadline is **three weeks** after assignment, on **Fridays at 23:59:59 PM**.
 - Winners are announced and some students will present their solutions.
@@ -98,5 +96,3 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 | 3    | Mini-Project 1 | Week 6 |
 | 6    | Mini-Project 2 | Week 9 |
 | 9    | Mini-Project 3 | Week 12 |
-| 12   | Mini-Project 4 | Week 15 |
-| 15?   | Mini-Project +1 | Week ? |
