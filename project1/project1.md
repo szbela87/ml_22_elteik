@@ -24,6 +24,19 @@ To achieve this, you can use the demographic and financial data of 250,000 past 
 
 ---
 
+## **Important Dates**
+
+| Date | Event |
+|---|---|
+| **March 4 (Wednesday)** | Deadline to send a work-in-progress Google Drive link via email if you would like consultation on your solution |
+| **March 9 (Monday)** | In-person consultation for those who sent their WIP link (if no email feedback is provided beforehand) |
+| **March 13 (Friday), 23:59** | **Submission deadline** |
+| **March 16 (Monday)** | Results presentation and winner announcement in class |
+
+- Late submissions **will not be accepted** for the competition. They can only be accepted for the assignment itself, with reduced points according to the rules.
+
+---
+
 ## **Detailed Tasks**
 
 For each subtask, it is worth studying the solutions available on the Kaggle page under the *Code* tab. Any sources used must be referenced (a link is sufficient). Similarly, please indicate in your submission which parts were created with the help of a generative model. This is based on self-reporting and carries no negative consequences, as the use of such models is encouraged for preparing and refining solutions.
