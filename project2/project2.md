@@ -17,7 +17,7 @@ Your goal is to explore and compare different modeling strategies for image clas
 - First, establish **baseline results** using classical machine learning methods.
 - Then, build **neural network models** (fully connected and convolutional) using PyTorch and demonstrate their advantages.
 
-The dataset contains 28×28 grayscale images of handwritten Kannada digits (pixel values 0–255), with 60,000 labeled training samples and 10,000 test samples. An additional **Dig-MNIST** dataset (10,240 images) is also provided for cross-domain evaluation. Compared to the classic MNIST, Kannada-MNIST is a more challenging benchmark — baseline CNN models achieve ~96.8% accuracy, leaving more room for experimentation and improvement.
+The dataset contains 28×28 grayscale images of handwritten Kannada digits (pixel values 0–255), with 60,000 labeled training samples and 10,000 test samples. An additional **Dig-MNIST** dataset (10,240 images) is also provided for cross-domain evaluation. Compared to the classic MNIST, Kannada-MNIST is a more challenging benchmark, baseline CNN models achieve ~96.8% accuracy, leaving more room for experimentation and improvement.
 
 ---
 
