@@ -41,7 +41,7 @@ Additional course materials, ELTE Faculty of Informatics - 2024/25 spring semest
 - Achieving high scores is **not mandatory**, but:
   - Placing in the **top 3 at least 2 times** guarantees a **grade of 5**.
 - You must submit a **work-in-progress notebook** by the following **Friday**.
-- The final deadline is **three weeks** after assignment, on **Fridays at 23:59:59 PM**.
+- The final deadline is **three weeks** after assignment, on **Saturdays at 07:59:59 AM**.
 - Winners are announced and students must present their solutions in a **maximum 10-minute presentation** (no slides required).
 
 ### Submission Format

@@ -33,7 +33,7 @@ The dataset contains 28×28 grayscale images of handwritten Kannada digits (pixe
 |---|---|
 | **8 April (Wednesday)** | Deadline to send a work-in-progress Google Drive link via email if you would like consultation on your solution |
 | **13 April (Monday)** | In-person consultation for those who sent their WIP link (if no email feedback is provided beforehand) |
-| **17 April (Friday), 23:59** | **Submission deadline** |
+| **18 April (Saturday), 07:59 AM** | **Submission deadline** |
 | **20 April (Monday)** | Results presentation and winner announcement in class |
 
 - Late submissions **will not be accepted** for the competition. They can only be accepted for the assignment itself, with reduced points according to the rules.
